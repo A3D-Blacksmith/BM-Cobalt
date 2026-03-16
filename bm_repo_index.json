@@ -1,0 +1,127 @@
+[
+    {
+        "name": "old_stone_wall",
+        "repo": "A3D-Blacksmith/BM-Silver",
+        "manifest": {
+            "name": "Old Stone Wall",
+            "creator": "Polyhaven (Charlotte Baglioni)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "stone,wall,rock wall,stone wall",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/old_stone_wall",
+            "powerplug": {
+                "mode": "blend",
+                "src": "old_stone_wall.blend"
+            }
+        },
+        "creator": "Polyhaven (Charlotte Baglioni)",
+        "tags": "stone,wall,rock wall,stone wall",
+        "realname": "Old Stone Wall",
+        "category": "Materials",
+        "date": 1773622769.558081,
+        "size": "70302121",
+        "thumbnail": "Assets/old_stone_wall/thumbnail.png",
+        "description": "Old Stone Wall from Poly Haven\nBy Charlotte Baglioni\n\nWidth: 2.0m\nTD: 81.9 px/cm"
+    },
+    {
+        "name": "rock_embedded_concrete",
+        "repo": "A3D-Blacksmith/BM-Silver",
+        "manifest": {
+            "name": "Rock Embedded Concrete",
+            "creator": "Polyhaven (Dimitrios Savva)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rocks,embedded rock,pebbles",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/rock_embedded_concrete",
+            "powerplug": {
+                "mode": "blend",
+                "src": "rock_embedded_concrete.blend"
+            }
+        },
+        "creator": "Polyhaven (Dimitrios Savva)",
+        "tags": "rocks,embedded rock,pebbles",
+        "realname": "Rock Embedded Concrete",
+        "category": "Materials",
+        "date": 1773622769.7540803,
+        "size": "73184288",
+        "thumbnail": "Assets/rock_embedded_concrete/thumbnail.png",
+        "description": "Rock Embedded Concrete from Poly Haven\nBy Dimitrios Savva\n\nWidth: 2.0m\nTD: 41 px/cm"
+    },
+    {
+        "name": "granite_tile_04",
+        "repo": "A3D-Blacksmith/BM-Silver",
+        "manifest": {
+            "name": "Granite Tile 04",
+            "creator": "Polyhaven (Amal Kumar)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rough,weathered,granite,stone tile",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/granite_tile_04",
+            "powerplug": {
+                "mode": "blend",
+                "src": "granite_tile_04.blend"
+            }
+        },
+        "creator": "Polyhaven (Amal Kumar)",
+        "tags": "rough,weathered,granite,stone tile",
+        "realname": "Granite Tile 04",
+        "category": "Materials",
+        "date": 1773622769.4720812,
+        "size": "76804186",
+        "thumbnail": "Assets/granite_tile_04/thumbnail.png",
+        "description": "Granite Tile 04 from Poly Haven\nBy Amal Kumar\n\nWidth: 2.0m\nTD: 41 px/cm"
+    },
+    {
+        "name": "worn_brick_path",
+        "repo": "A3D-Blacksmith/BM-Silver",
+        "manifest": {
+            "name": "Worn Brick Path",
+            "creator": "Polyhaven (Amal Kumar)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rough,brick,bricks,herringbone",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/worn_brick_path",
+            "powerplug": {
+                "mode": "blend",
+                "src": "worn_brick_path.blend"
+            }
+        },
+        "creator": "Polyhaven (Amal Kumar)",
+        "tags": "rough,brick,bricks,herringbone",
+        "realname": "Worn Brick Path",
+        "category": "Materials",
+        "date": 1773622769.8350801,
+        "size": "69007008",
+        "thumbnail": "Assets/worn_brick_path/thumbnail.png",
+        "description": "Worn Brick Path from Poly Haven\nBy Amal Kumar\n\nWidth: 1.9m\nTD: 42 px/cm"
+    },
+    {
+        "name": "plastered_wall_05",
+        "repo": "A3D-Blacksmith/BM-Silver",
+        "manifest": {
+            "name": "Plastered Wall 05",
+            "creator": "Polyhaven (Charlotte Baglioni)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rough,scratched,gray,plaster,plastered",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/plastered_wall_05",
+            "powerplug": {
+                "mode": "blend",
+                "src": "plastered_wall_05.blend"
+            }
+        },
+        "creator": "Polyhaven (Charlotte Baglioni)",
+        "tags": "rough,scratched,gray,plaster,plastered",
+        "realname": "Plastered Wall 05",
+        "category": "Materials",
+        "date": 1773622769.6680806,
+        "size": "92268214",
+        "thumbnail": "Assets/plastered_wall_05/thumbnail.png",
+        "description": "Plastered Wall 05 from Poly Haven\nBy Charlotte Baglioni\n\nWidth: 2.0m\nTD: 41 px/cm"
+    }
+]
