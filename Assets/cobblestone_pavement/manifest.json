@@ -1,0 +1,10 @@
+{
+    "name":"Cobblestone Pavement",
+    "creator":"Polyhaven (Charlotte Baglioni)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"cobblestone,cobblestones,rocks,squares",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/cobblestone_pavement", 
+    "powerplug":{"mode":"blend", "src":"cobblestone_pavement.blend"}
+}

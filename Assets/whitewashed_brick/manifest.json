@@ -1,0 +1,10 @@
+{
+    "name":"Whitewashed Brick",
+    "creator":"Polyhaven (Charlotte Baglioni)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rough,old,old brick,white,whitewashed",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/whitewashed_brick", 
+    "powerplug":{"mode":"blend", "src":"whitewashed_brick.blend"}
+}

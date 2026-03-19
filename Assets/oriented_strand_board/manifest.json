@@ -1,0 +1,10 @@
+{
+    "name":"Oriented Strand Board",
+    "creator":"Polyhaven (Dimitrios Savva)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"compressed,coated finish,coated wood",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/oriented_strand_board", 
+    "powerplug":{"mode":"blend", "src":"oriented_strand_board.blend"}
+}

@@ -1,0 +1,10 @@
+{
+    "name":"Rusty Metal 04",
+    "creator":"Polyhaven (Amal Kumar)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"metal sheet,metal,rusted,rusty,rust",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/rusty_metal_04", 
+    "powerplug":{"mode":"blend", "src":"rusty_metal_04.blend"}
+}
