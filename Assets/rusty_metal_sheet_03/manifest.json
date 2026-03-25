@@ -1,0 +1,12 @@
+{
+    "name": "Rusty Metal Sheet 03",
+    "creator": "Quixel",
+    "category": "Textures",
+    "filename": "Assets.zip",
+    "tags": "",
+    "website": "",
+    "powerplug": {
+        "mode": "textures",
+        "src": "textures"
+    }
+}

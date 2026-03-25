@@ -3,7 +3,7 @@ from time import strftime, localtime
 
 #This file indexes all the assets in the current repository
 
-repo = "A3D-Blacksmith/BM-Silver"
+repo = "A3D-Blacksmith/BM-Mackerel"
 repo_manifest = []
 
 def readManifest(path):
