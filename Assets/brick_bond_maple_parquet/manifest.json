@@ -1,0 +1,10 @@
+{
+    "name":"name",
+    "creator":"author",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"",
+    "version":"1.00",
+    "website":"", 
+    "powerplug":{"mode":"textures", "src":"textures"}
+}
