@@ -1,0 +1,10 @@
+{
+    "name":"Blue Metal Plate",
+    "creator":"Polyhaven (Rob Tuytel)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"scratched,metal sheet,metal,painted",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/blue_metal_plate", 
+    "powerplug":{"mode":"blend", "src":"blue_metal_plate.blend"}
+}

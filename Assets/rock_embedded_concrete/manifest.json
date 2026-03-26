@@ -1,0 +1,10 @@
+{
+    "name":"Rock Embedded Concrete",
+    "creator":"Polyhaven (Dimitrios Savva)",
+    "category":"Materials",
+    "filename":"Assets.zip",
+    "tags":"rocks,embedded rock,pebbles",
+    "version":"1.00",
+    "website":"https://polyhaven.com/a/rock_embedded_concrete", 
+    "powerplug":{"mode":"blend", "src":"rock_embedded_concrete.blend"}
+}
