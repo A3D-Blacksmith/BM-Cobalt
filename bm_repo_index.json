@@ -1,278 +1,28 @@
 [
     {
-        "name": "cliff_side",
+        "name": "wood_shutter",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Cliff Side",
-            "creator": "Polyhaven (Dario Barresi, James Ray Cock and Jenelle van Heerden)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "cliff,rock face,rugged,eroded,boulder",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/cliff_side",
-            "powerplug": {
-                "mode": "blend",
-                "src": "cliff_side.blend"
-            }
-        },
-        "creator": "Polyhaven (Dario Barresi, James Ray Cock and Jenelle van Heerden)",
-        "tags": "cliff,rock face,rugged,eroded,boulder",
-        "realname": "Cliff Side",
-        "category": "Materials",
-        "date": 1777384795.7412465,
-        "size": "64992598",
-        "thumbnail": "Assets/cliff_side/thumbnail.png",
-        "description": "Cliff Side from Poly Haven\nBy Dario Barresi, James Ray Cock and Jenelle van Heerden\n\n\n\nWidth: 1.8m\n\nTD: 89.5 px/cm\n\n"
-    },
-    {
-        "name": "old_stone_wall",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Old Stone Wall",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "stone,wall,rock wall,stone wall",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/old_stone_wall",
-            "powerplug": {
-                "mode": "blend",
-                "src": "old_stone_wall.blend"
-            }
-        },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "stone,wall,rock wall,stone wall",
-        "realname": "Old Stone Wall",
-        "category": "Materials",
-        "date": 1777384796.1482506,
-        "size": "70302121",
-        "thumbnail": "Assets/old_stone_wall/thumbnail.png",
-        "description": "Old Stone Wall from Poly Haven\nBy Charlotte Baglioni\n\nWidth: 2.0m\nTD: 81.9 px/cm"
-    },
-    {
-        "name": "red_brick",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Red Brick",
-            "creator": "Polyhaven (Rob Tuytel)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "brick,bricks,wall,red brick,brick wall",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/red_brick",
-            "powerplug": {
-                "mode": "blend",
-                "src": "red_brick.blend"
-            }
-        },
-        "creator": "Polyhaven (Rob Tuytel)",
-        "tags": "brick,bricks,wall,red brick,brick wall",
-        "realname": "Red Brick",
-        "category": "Materials",
-        "date": 1777384796.3952532,
-        "size": "71838926",
-        "thumbnail": "Assets/red_brick/thumbnail.png",
-        "description": "Red Brick from Poly Haven\n\nBy Rob Tuytel\n\n\n\nWidth: 1.4m\n\nTD: 117 px/cm\n\n"
-    },
-    {
-        "name": "concrete_tile_facade",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Concrete Tile Facade",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "concrete,wall,walling,tiles,tiled wall",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/concrete_tile_facade",
-            "powerplug": {
-                "mode": "blend",
-                "src": "concrete_tile_facade.blend"
-            }
-        },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "concrete,wall,walling,tiles,tiled wall",
-        "realname": "Concrete Tile Facade",
-        "category": "Materials",
-        "date": 1777384795.881248,
-        "size": "68108869",
-        "thumbnail": "Assets/concrete_tile_facade/thumbnail.png",
-        "description": "Concrete Tile Facade from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.1m\n\nTD: 39.2 px/cm\n\n"
-    },
-    {
-        "name": "granite_tile_04",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Granite Tile 04",
-            "creator": "Polyhaven (Amal Kumar)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "rough,weathered,granite,stone tile",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/granite_tile_04",
-            "powerplug": {
-                "mode": "blend",
-                "src": "granite_tile_04.blend"
-            }
-        },
-        "creator": "Polyhaven (Amal Kumar)",
-        "tags": "rough,weathered,granite,stone tile",
-        "realname": "Granite Tile 04",
-        "category": "Materials",
-        "date": 1777384795.9542487,
-        "size": "76804186",
-        "thumbnail": "Assets/granite_tile_04/thumbnail.png",
-        "description": "Granite Tile 04 from Poly Haven\nBy Amal Kumar\n\nWidth: 2.0m\nTD: 41 px/cm"
-    },
-    {
-        "name": "old_linuleum_flooring_01",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Old Linoleum Flooring 01",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "smooth,linolium,linoleum,glossy,vinyl",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/old_linoleum_flooring_01",
-            "powerplug": {
-                "mode": "blend",
-                "src": "old_linoleum_flooring_01.blend"
-            }
-        },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "smooth,linolium,linoleum,glossy,vinyl",
-        "realname": "Old Linoleum Flooring 01",
-        "category": "Materials",
-        "date": 1777384796.08125,
-        "size": "61593890",
-        "thumbnail": "Assets/old_linuleum_flooring_01/thumbnail.png",
-        "description": "Old Linoleum Flooring 01 from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.0m\n\nTD: 82.3 px/cm\n\n"
-    },
-    {
-        "name": "cobblestone_pavement",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Cobblestone Pavement",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "cobblestone,cobblestones,rocks,squares",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/cobblestone_pavement",
-            "powerplug": {
-                "mode": "blend",
-                "src": "cobblestone_pavement.blend"
-            }
-        },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "cobblestone,cobblestones,rocks,squares",
-        "realname": "Cobblestone Pavement",
-        "category": "Materials",
-        "date": 1777384795.8052473,
-        "size": "67582690",
-        "thumbnail": "Assets/cobblestone_pavement/thumbnail.png",
-        "description": "Cobblestone Pavement from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.5m\n\nTD: 65.5 px/cm\n\n"
-    },
-    {
-        "name": "worn_concrete_floor",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Worn Concrete Floor",
+            "name": "Wood Shutter",
             "creator": "Polyhaven (Dimitrios Savva)",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "rough,weathered,uneven,old,cracked",
+            "tags": "wood,rough,shutter,wood shutter",
             "version": "1.00",
-            "website": "https://polyhaven.com/a/worn_concrete_floor",
+            "website": "https://polyhaven.com/a/wood_shutter",
             "powerplug": {
                 "mode": "blend",
-                "src": "worn_concrete_floor.blend"
+                "src": "wood_shutter.blend"
             }
         },
         "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "rough,weathered,uneven,old,cracked",
-        "realname": "Worn Concrete Floor",
+        "tags": "wood,rough,shutter,wood shutter",
+        "realname": "Wood Shutter",
         "category": "Materials",
-        "date": 1777384796.8302574,
-        "size": "76384493",
-        "thumbnail": "Assets/worn_concrete_floor/thumbnail.png",
-        "description": "Worn Concrete Floor from Poly Haven\nBy Dimitrious Savva\n\n\n\nWidth: 2.0m\n\nTD: 41 px/cm\n\n"
-    },
-    {
-        "name": "rusty_metal_04",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Rusty Metal 04",
-            "creator": "Polyhaven (Amal Kumar)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "metal sheet,metal,rusted,rusty,rust",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/rusty_metal_04",
-            "powerplug": {
-                "mode": "blend",
-                "src": "rusty_metal_04.blend"
-            }
-        },
-        "creator": "Polyhaven (Amal Kumar)",
-        "tags": "metal sheet,metal,rusted,rusty,rust",
-        "realname": "Rusty Metal 04",
-        "category": "Materials",
-        "date": 1777384796.5512547,
-        "size": "88274323",
-        "thumbnail": "Assets/rusty_metal_04/thumbnail.png",
-        "description": "Rusty Metal 04 from Poly Haven\n\nBy Amal Kumar\n\n\n\nWidth: 2.0m\n\nTD: 81.9 px/cm\n\n"
-    },
-    {
-        "name": "blue_metal_plate",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Blue Metal Plate",
-            "creator": "Polyhaven (Rob Tuytel)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "scratched,metal sheet,metal,painted",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/blue_metal_plate",
-            "powerplug": {
-                "mode": "blend",
-                "src": "blue_metal_plate.blend"
-            }
-        },
-        "creator": "Polyhaven (Rob Tuytel)",
-        "tags": "scratched,metal sheet,metal,painted",
-        "realname": "Blue Metal Plate",
-        "category": "Materials",
-        "date": 1777384795.679246,
-        "size": "25254736",
-        "thumbnail": "Assets/blue_metal_plate/thumbnail.png",
-        "description": "Blue Metal Plate from Poly Haven\nBy Rob Tuytel\n\n\n\nWidth: 2.5m\n\nTD: 65.5 px/cm\n\n"
-    },
-    {
-        "name": "rock_embedded_concrete",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Rock Embedded Concrete",
-            "creator": "Polyhaven (Dimitrios Savva)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "rocks,embedded rock,pebbles",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/rock_embedded_concrete",
-            "powerplug": {
-                "mode": "blend",
-                "src": "rock_embedded_concrete.blend"
-            }
-        },
-        "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "rocks,embedded rock,pebbles",
-        "realname": "Rock Embedded Concrete",
-        "category": "Materials",
-        "date": 1777384796.467254,
-        "size": "73184288",
-        "thumbnail": "Assets/rock_embedded_concrete/thumbnail.png",
-        "description": "Rock Embedded Concrete from Poly Haven\nBy Dimitrios Savva\n\nWidth: 2.0m\nTD: 41 px/cm"
+        "date": 1777470639.3519351,
+        "size": "61856240",
+        "thumbnail": "Assets/wood_shutter/thumbnail.png",
+        "description": "Wood Shutter from Poly Haven\n\nBy Dimitrious Savva\n\n\n\nWidth: 1.0m\n\nTD: 81.9 px/cm\n\n"
     },
     {
         "name": "whitewashed_brick",
@@ -294,35 +44,110 @@
         "tags": "rough,old,old brick,white,whitewashed",
         "realname": "Whitewashed Brick",
         "category": "Materials",
-        "date": 1777384796.6192553,
+        "date": 1777470639.292934,
         "size": "69586988",
         "thumbnail": "Assets/whitewashed_brick/thumbnail.png",
         "description": "Whitewashed Brick from Poly Haven\n\nBy Charlotte Baglioni\n\n\n\nWidth: 2.0m\n\nTD: 81.9 px/cm\n\n"
     },
     {
-        "name": "oriented_strand_board",
+        "name": "blue_metal_plate",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Oriented Strand Board",
-            "creator": "Polyhaven (Dimitrios Savva)",
+            "name": "Blue Metal Plate",
+            "creator": "Polyhaven (Rob Tuytel)",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "compressed,coated finish,coated wood",
+            "tags": "scratched,metal sheet,metal,painted",
             "version": "1.00",
-            "website": "https://polyhaven.com/a/oriented_strand_board",
+            "website": "https://polyhaven.com/a/blue_metal_plate",
             "powerplug": {
                 "mode": "blend",
-                "src": "oriented_strand_board.blend"
+                "src": "blue_metal_plate.blend"
             }
         },
-        "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "compressed,coated finish,coated wood",
-        "realname": "Oriented Strand Board",
+        "creator": "Polyhaven (Rob Tuytel)",
+        "tags": "scratched,metal sheet,metal,painted",
+        "realname": "Blue Metal Plate",
         "category": "Materials",
-        "date": 1777384796.2342515,
-        "size": "89193460",
-        "thumbnail": "Assets/oriented_strand_board/thumbnail.png",
-        "description": "Oriented Strand Board from Poly Haven\nBy Dimitrious Savva\n\n\n\nWidth: 2.5m\n\nTD: 32.6 px/cm\n\n"
+        "date": 1777470638.3579152,
+        "size": "25254736",
+        "thumbnail": "Assets/blue_metal_plate/thumbnail.png",
+        "description": "Blue Metal Plate from Poly Haven\nBy Rob Tuytel\n\n\n\nWidth: 2.5m\n\nTD: 65.5 px/cm\n\n"
+    },
+    {
+        "name": "rusty_metal_04",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rusty Metal 04",
+            "creator": "Polyhaven (Amal Kumar)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "metal sheet,metal,rusted,rusty,rust",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/rusty_metal_04",
+            "powerplug": {
+                "mode": "blend",
+                "src": "rusty_metal_04.blend"
+            }
+        },
+        "creator": "Polyhaven (Amal Kumar)",
+        "tags": "metal sheet,metal,rusted,rusty,rust",
+        "realname": "Rusty Metal 04",
+        "category": "Materials",
+        "date": 1777470639.2249327,
+        "size": "88274323",
+        "thumbnail": "Assets/rusty_metal_04/thumbnail.png",
+        "description": "Rusty Metal 04 from Poly Haven\n\nBy Amal Kumar\n\n\n\nWidth: 2.0m\n\nTD: 81.9 px/cm\n\n"
+    },
+    {
+        "name": "concrete_tile_facade",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Concrete Tile Facade",
+            "creator": "Polyhaven (Charlotte Baglioni)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "concrete,wall,walling,tiles,tiled wall",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/concrete_tile_facade",
+            "powerplug": {
+                "mode": "blend",
+                "src": "concrete_tile_facade.blend"
+            }
+        },
+        "creator": "Polyhaven (Charlotte Baglioni)",
+        "tags": "concrete,wall,walling,tiles,tiled wall",
+        "realname": "Concrete Tile Facade",
+        "category": "Materials",
+        "date": 1777470638.5589192,
+        "size": "68108869",
+        "thumbnail": "Assets/concrete_tile_facade/thumbnail.png",
+        "description": "Concrete Tile Facade from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.1m\n\nTD: 39.2 px/cm\n\n"
+    },
+    {
+        "name": "old_stone_wall",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Old Stone Wall",
+            "creator": "Polyhaven (Charlotte Baglioni)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "stone,wall,rock wall,stone wall",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/old_stone_wall",
+            "powerplug": {
+                "mode": "blend",
+                "src": "old_stone_wall.blend"
+            }
+        },
+        "creator": "Polyhaven (Charlotte Baglioni)",
+        "tags": "stone,wall,rock wall,stone wall",
+        "realname": "Old Stone Wall",
+        "category": "Materials",
+        "date": 1777470638.8249245,
+        "size": "70302121",
+        "thumbnail": "Assets/old_stone_wall/thumbnail.png",
+        "description": "Old Stone Wall from Poly Haven\nBy Charlotte Baglioni\n\nWidth: 2.0m\nTD: 81.9 px/cm"
     },
     {
         "name": "plastered_wall_05",
@@ -344,60 +169,185 @@
         "tags": "rough,scratched,gray,plaster,plastered",
         "realname": "Plastered Wall 05",
         "category": "Materials",
-        "date": 1777384796.3262525,
+        "date": 1777470639.001928,
         "size": "92268214",
         "thumbnail": "Assets/plastered_wall_05/thumbnail.png",
         "description": "Plastered Wall 05 from Poly Haven\nBy Charlotte Baglioni\n\nWidth: 2.0m\nTD: 41 px/cm"
     },
     {
-        "name": "wood_shutter",
+        "name": "oriented_strand_board",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Wood Shutter",
+            "name": "Oriented Strand Board",
             "creator": "Polyhaven (Dimitrios Savva)",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "wood,rough,shutter,wood shutter",
+            "tags": "compressed,coated finish,coated wood",
             "version": "1.00",
-            "website": "https://polyhaven.com/a/wood_shutter",
+            "website": "https://polyhaven.com/a/oriented_strand_board",
             "powerplug": {
                 "mode": "blend",
-                "src": "wood_shutter.blend"
+                "src": "oriented_strand_board.blend"
             }
         },
         "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "wood,rough,shutter,wood shutter",
-        "realname": "Wood Shutter",
+        "tags": "compressed,coated finish,coated wood",
+        "realname": "Oriented Strand Board",
         "category": "Materials",
-        "date": 1777384796.679256,
-        "size": "61856240",
-        "thumbnail": "Assets/wood_shutter/thumbnail.png",
-        "description": "Wood Shutter from Poly Haven\n\nBy Dimitrious Savva\n\n\n\nWidth: 1.0m\n\nTD: 81.9 px/cm\n\n"
+        "date": 1777470638.9099262,
+        "size": "89193460",
+        "thumbnail": "Assets/oriented_strand_board/thumbnail.png",
+        "description": "Oriented Strand Board from Poly Haven\nBy Dimitrious Savva\n\n\n\nWidth: 2.5m\n\nTD: 32.6 px/cm\n\n"
     },
     {
-        "name": "herringbone_concrete_tile_02",
+        "name": "rock_embedded_concrete",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Herringbone Concrete Tile 02",
+            "name": "Rock Embedded Concrete",
+            "creator": "Polyhaven (Dimitrios Savva)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rocks,embedded rock,pebbles",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/rock_embedded_concrete",
+            "powerplug": {
+                "mode": "blend",
+                "src": "rock_embedded_concrete.blend"
+            }
+        },
+        "creator": "Polyhaven (Dimitrios Savva)",
+        "tags": "rocks,embedded rock,pebbles",
+        "realname": "Rock Embedded Concrete",
+        "category": "Materials",
+        "date": 1777470639.140931,
+        "size": "73184288",
+        "thumbnail": "Assets/rock_embedded_concrete/thumbnail.png",
+        "description": "Rock Embedded Concrete from Poly Haven\nBy Dimitrios Savva\n\nWidth: 2.0m\nTD: 41 px/cm"
+    },
+    {
+        "name": "cobblestone_pavement",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Cobblestone Pavement",
             "creator": "Polyhaven (Charlotte Baglioni)",
             "category": "Materials",
             "filename": "Assets.zip",
-            "tags": "rough,uneven,weathered,wall,concrete",
+            "tags": "cobblestone,cobblestones,rocks,squares",
             "version": "1.00",
-            "website": "https://polyhaven.com/a/herringbone_concrete_tile_02",
+            "website": "https://polyhaven.com/a/cobblestone_pavement",
             "powerplug": {
                 "mode": "blend",
-                "src": "herringbone_concrete_tile_02.blend"
+                "src": "cobblestone_pavement.blend"
             }
         },
         "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "rough,uneven,weathered,wall,concrete",
-        "realname": "Herringbone Concrete Tile 02",
+        "tags": "cobblestone,cobblestones,rocks,squares",
+        "realname": "Cobblestone Pavement",
         "category": "Materials",
-        "date": 1777384796.0212493,
-        "size": "69559206",
-        "thumbnail": "Assets/herringbone_concrete_tile_02/thumbnail.png",
-        "description": "Herringbone Concrete Tile 02 from Poly Haven\n\nBy Charlotte Baglioni\n\n\n\nWidth: 2.2m\n\nTD: 74 px/cm\n\n"
+        "date": 1777470638.4839177,
+        "size": "67582690",
+        "thumbnail": "Assets/cobblestone_pavement/thumbnail.png",
+        "description": "Cobblestone Pavement from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.5m\n\nTD: 65.5 px/cm\n\n"
+    },
+    {
+        "name": "cliff_side",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Cliff Side",
+            "creator": "Polyhaven (Dario Barresi, James Ray Cock and Jenelle van Heerden)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "cliff,rock face,rugged,eroded,boulder",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/cliff_side",
+            "powerplug": {
+                "mode": "blend",
+                "src": "cliff_side.blend"
+            }
+        },
+        "creator": "Polyhaven (Dario Barresi, James Ray Cock and Jenelle van Heerden)",
+        "tags": "cliff,rock face,rugged,eroded,boulder",
+        "realname": "Cliff Side",
+        "category": "Materials",
+        "date": 1777470638.4189162,
+        "size": "64992598",
+        "thumbnail": "Assets/cliff_side/thumbnail.png",
+        "description": "Cliff Side from Poly Haven\nBy Dario Barresi, James Ray Cock and Jenelle van Heerden\n\n\n\nWidth: 1.8m\n\nTD: 89.5 px/cm\n\n"
+    },
+    {
+        "name": "red_brick",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Red Brick",
+            "creator": "Polyhaven (Rob Tuytel)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "brick,bricks,wall,red brick,brick wall",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/red_brick",
+            "powerplug": {
+                "mode": "blend",
+                "src": "red_brick.blend"
+            }
+        },
+        "creator": "Polyhaven (Rob Tuytel)",
+        "tags": "brick,bricks,wall,red brick,brick wall",
+        "realname": "Red Brick",
+        "category": "Materials",
+        "date": 1777470639.0709295,
+        "size": "71838926",
+        "thumbnail": "Assets/red_brick/thumbnail.png",
+        "description": "Red Brick from Poly Haven\n\nBy Rob Tuytel\n\n\n\nWidth: 1.4m\n\nTD: 117 px/cm\n\n"
+    },
+    {
+        "name": "worn_concrete_floor",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Worn Concrete Floor",
+            "creator": "Polyhaven (Dimitrios Savva)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rough,weathered,uneven,old,cracked",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/worn_concrete_floor",
+            "powerplug": {
+                "mode": "blend",
+                "src": "worn_concrete_floor.blend"
+            }
+        },
+        "creator": "Polyhaven (Dimitrios Savva)",
+        "tags": "rough,weathered,uneven,old,cracked",
+        "realname": "Worn Concrete Floor",
+        "category": "Materials",
+        "date": 1777470639.4919379,
+        "size": "76384493",
+        "thumbnail": "Assets/worn_concrete_floor/thumbnail.png",
+        "description": "Worn Concrete Floor from Poly Haven\nBy Dimitrious Savva\n\n\n\nWidth: 2.0m\n\nTD: 41 px/cm\n\n"
+    },
+    {
+        "name": "old_linuleum_flooring_01",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Old Linoleum Flooring 01",
+            "creator": "Polyhaven (Charlotte Baglioni)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "smooth,linolium,linoleum,glossy,vinyl",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/old_linoleum_flooring_01",
+            "powerplug": {
+                "mode": "blend",
+                "src": "old_linoleum_flooring_01.blend"
+            }
+        },
+        "creator": "Polyhaven (Charlotte Baglioni)",
+        "tags": "smooth,linolium,linoleum,glossy,vinyl",
+        "realname": "Old Linoleum Flooring 01",
+        "category": "Materials",
+        "date": 1777470638.7579231,
+        "size": "61593890",
+        "thumbnail": "Assets/old_linuleum_flooring_01/thumbnail.png",
+        "description": "Old Linoleum Flooring 01 from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.0m\n\nTD: 82.3 px/cm\n\n"
     },
     {
         "name": "worn_brick_path",
@@ -419,9 +369,59 @@
         "tags": "rough,brick,bricks,herringbone",
         "realname": "Worn Brick Path",
         "category": "Materials",
-        "date": 1777384796.7542567,
+        "date": 1777470639.4189365,
         "size": "69007008",
         "thumbnail": "Assets/worn_brick_path/thumbnail.png",
         "description": "Worn Brick Path from Poly Haven\nBy Amal Kumar\n\nWidth: 1.9m\nTD: 42 px/cm"
+    },
+    {
+        "name": "granite_tile_04",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Granite Tile 04",
+            "creator": "Polyhaven (Amal Kumar)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rough,weathered,granite,stone tile",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/granite_tile_04",
+            "powerplug": {
+                "mode": "blend",
+                "src": "granite_tile_04.blend"
+            }
+        },
+        "creator": "Polyhaven (Amal Kumar)",
+        "tags": "rough,weathered,granite,stone tile",
+        "realname": "Granite Tile 04",
+        "category": "Materials",
+        "date": 1777470638.6319206,
+        "size": "76804186",
+        "thumbnail": "Assets/granite_tile_04/thumbnail.png",
+        "description": "Granite Tile 04 from Poly Haven\nBy Amal Kumar\n\nWidth: 2.0m\nTD: 41 px/cm"
+    },
+    {
+        "name": "herringbone_concrete_tile_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Herringbone Concrete Tile 02",
+            "creator": "Polyhaven (Charlotte Baglioni)",
+            "category": "Materials",
+            "filename": "Assets.zip",
+            "tags": "rough,uneven,weathered,wall,concrete",
+            "version": "1.00",
+            "website": "https://polyhaven.com/a/herringbone_concrete_tile_02",
+            "powerplug": {
+                "mode": "blend",
+                "src": "herringbone_concrete_tile_02.blend"
+            }
+        },
+        "creator": "Polyhaven (Charlotte Baglioni)",
+        "tags": "rough,uneven,weathered,wall,concrete",
+        "realname": "Herringbone Concrete Tile 02",
+        "category": "Materials",
+        "date": 1777470638.698922,
+        "size": "69559206",
+        "thumbnail": "Assets/herringbone_concrete_tile_02/thumbnail.png",
+        "description": "Herringbone Concrete Tile 02 from Poly Haven\n\nBy Charlotte Baglioni\n\n\n\nWidth: 2.2m\n\nTD: 74 px/cm\n\n"
     }
 ]
